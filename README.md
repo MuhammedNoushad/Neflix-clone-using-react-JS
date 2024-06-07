@@ -11,5 +11,5 @@ This is a React-based web application that replicates the core features and user
 
 ## Project Demo
 <p align="center">
-  <img src="/netflix.gif" width="800">
+  <img src="/5025e0df-ca17-422b-a5b0-269a0e022af1.gif" width="800">
 </p>
